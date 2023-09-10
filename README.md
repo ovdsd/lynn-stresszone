@@ -4,3 +4,5 @@
 
 ## DEPENDECIES
 ### pz-zone
+### es_extended
+### esx-status
